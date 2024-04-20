@@ -1,7 +1,7 @@
 // Colours
 $bodyColour: #46412A;
 $headingColour: darken($bodyColour, 5%);
-$linkColour: #5B5BFF;
+$linkColour: #416d0096;
 $hoverColour: darken($linkColour, 10%);
 $captionColour: lighten($headingColour, 40%);
 $white: #fff;
@@ -56,3 +56,4 @@ small.small::selection {
 
 //$backgroundColour: #E6FFC8;
 //$codeBackgroundColour: #CFFF95;
+//$linkColour: #5B5BFF;
