@@ -29,7 +29,14 @@ span::selection {
     background: #A2A2FF;
     color: #28287e;
 }
-
+div::selection {
+    background: #A2A2FF;
+    color: #28287e;
+}
+img::selection {
+    background: #A2A2FF;
+    color: #28287e;
+}
 
 // Colours
 //$bodyColour: #46412A;
