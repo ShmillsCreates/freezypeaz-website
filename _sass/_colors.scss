@@ -9,6 +9,10 @@ $white: #fff;
 $backgroundColour: #E6FFC8;
 $codeBackgroundColour: #CFFF95;
 
+p::selection {
+    background: #fff;
+    color: #A2A2FF;
+  }
 
 
 // Colours
