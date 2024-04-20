@@ -6,8 +6,8 @@ $hoverColour: darken($linkColour, 10%);
 $captionColour: lighten($headingColour, 40%);
 $white: #fff;
 
-$backgroundColour: #E6FFC8;
-$codeBackgroundColour: #CFFF95;
+$backgroundColour: #DDDDFF;
+$codeBackgroundColour: darken($backgroundColour, 5%);
 
 p::selection {
     background: #A2A2FF;
@@ -53,3 +53,6 @@ small.small::selection {
 
 //$backgroundColour: #ffefc8;
 //$codeBackgroundColour: darken($backgroundColour, 5%);
+
+//$backgroundColour: #E6FFC8;
+//$codeBackgroundColour: #CFFF95;
