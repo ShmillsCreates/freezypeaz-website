@@ -65,8 +65,16 @@ a {
     font-style: normal;
     font-weight: map-get($headingtype, bold);
   }
-  h1 {
-    color: #28287e;
+
+//testing colours
+h1 {
+    color: #355700;
+}
+a {
+  color: #355700;
+}
+small.small {
+  color: #355700;
 }
 
   // Heading level 1.
