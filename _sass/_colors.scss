@@ -9,7 +9,18 @@ $white: #fff;
 $backgroundColour: #E6FFC8;
 $codeBackgroundColour: #CFFF95;
 
-::selection {background: #A2A2FF;}
+p::selection {
+    background: #A2A2FF;
+    color: #28287e;
+  }
+a::selection {
+    background: #A2A2FF;
+    color: #28287e;
+}
+h1::selection {
+    background: #A2A2FF;
+    color: #28287e;
+}
 
 
 // Colours
