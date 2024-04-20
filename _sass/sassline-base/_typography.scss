@@ -65,6 +65,9 @@ a {
     font-style: normal;
     font-weight: map-get($headingtype, bold);
   }
+  h1 {
+    color: #28287e;
+}
 
   // Heading level 1.
   h1, .alpha {
