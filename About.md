@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "About FreezyPeaz"
 ---
 
 The name ‘freezypeaz’ came to me reminiscing through my mind and remembering a silly memory where I found myself struggling to open a bag of frozen peas. At the time, I was going through a rough patch and had a hard time expressing my emotions and instead bottled them up and was often overthinking my actions. Those thoughts intensified my then frustration, leading to the bag of peas ripping in half with peas flying everywhere around the kitchen. Instead of anger, for some reason, I found the situation quite ironic and even felt relief. Similarly to the peas stuck together in a block of ice, I had to find a way to express my emotions little by little, so that I don’t end up like the bag. So, in summary, with each story, I’ll open my metaphorical bag of peas and offer one in exchange for some peace of mind. I hope you enjoy this exploration of my thoughts in this blog and enjoy your virtual warm bowl of emotional peas!
