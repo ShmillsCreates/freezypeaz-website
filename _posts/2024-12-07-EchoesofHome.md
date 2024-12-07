@@ -1,8 +1,8 @@
 ---
 title: (Echoes of) Home
-category: none
+category: Chronicles from Home
 ---
-Listen to ‘Missing Pieces’ (Slowed) by Killswitch Memories and Flawed Mangoes to fully immerse yourself in the story I’m trying to convey
+Listen to [‘Missing Pieces’](https://www.youtube.com/watch?v=nIOoFRzEN5M) (Slowed) by Killswitch Memories and Flawed Mangoes to fully immerse yourself in the story I’m trying to convey
 
 I’m surrounded by your warm embrace – I look around and notice the patterned wallpapers, thinly veiled by the affordable yellow paint we got for half price. The small kitchen illuminated in the light, revealing the many scratches on the counter – evidence of my first attempts at cooking. I remember vividly how much I loved sitting on the counter, feet in the sink with chill water beneath, soaking up the sun through the window opposite me. My favourite memory here is of releasing a firefly back into the night after capturing it in a jar, or eating mashed potatoes—my comfort food—by candlelight when the electricity first went out. Back then, I didn’t understand the struggles of being raised by a single parent. Now, when I think of that day, I feel nothing but happiness.
 
